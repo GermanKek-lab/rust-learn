@@ -7,7 +7,7 @@ fn main() {
 
     let creatData = 2018;
     let yearNow = 2025;
-    println!("{}", yearNow - creatData)
+    println!("{}", yearNow - creatData);
 
 
     println!("Проверка...\nКод: 1234\nПроверка...\nКод: 5678\nПроверка...\nКод: 9012");
