@@ -24,5 +24,5 @@ fn main() {
 	};
 	
 	let hyp1 = tr1.find_hyp();
-	let hyp2 = Tringle::create_isc(cat: 8.0); 
+	let hyp2 = Tringle::create_isc(8.0); 
 }
